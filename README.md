@@ -29,3 +29,10 @@ Medium
 
 ```bash
 wget https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/114.0.5735.90/linux64/chrome-linux64.zip
+```
+**執行**
+```bash
+./run.sh
+```
+## Result
+
