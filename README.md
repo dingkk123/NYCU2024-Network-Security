@@ -35,4 +35,5 @@ wget https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/114.0.5735.90/l
 bash run.sh
 ```
 ## Result
+![exploitation result](assets/result.png)
 
