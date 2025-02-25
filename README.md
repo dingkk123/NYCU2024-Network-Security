@@ -32,7 +32,7 @@ wget https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/114.0.5735.90/l
 ```
 **執行**
 ```bash
-./run.sh
+bash run.sh
 ```
 ## Result
 
